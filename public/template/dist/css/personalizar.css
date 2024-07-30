@@ -1,0 +1,24 @@
+.fuente-uno {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif !important;
+}
+
+.fuente-dos {
+    font-family: monospace !important;
+}
+
+.fuente-tres {
+    font-family: Georgia, "Times New Roman", Times, serif !important;
+}
+
+.tema-uno {
+    background-image: url("../img/ninos.jpg") !important;
+}
+
+.tema-dos {
+    background-image: url("../img/jovenes.jpg") !important;
+}
+
+.tema-tres {
+    background-image: url("../img/adultos.jpg") !important;
+}
